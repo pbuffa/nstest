@@ -9,6 +9,10 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  "imports": {
+    "#nuxt-component-meta/nitro": "./.nuxt/component-meta.mjs",
+    "#mdc-imports": "./.nuxt/mdc-imports.mjs"
+  },
   "dependencies": {
     "@nuxt/content": "^3.15.1",
     "better-sqlite3": "^12.11.1",

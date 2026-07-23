@@ -9,5 +9,14 @@ export default defineNuxtConfig({
     'nuxt-studio'
   ],
   // Avoid localhost:3000 — Chrome still has caviar's Vite module requests cached there
-  devServer: { port: 3010 }
+  devServer: { port: 3010 },
+  studio: {
+    route: '/_studio'
+  },
+  nitro: {
+    alias: {
+      '#nuxt-component-meta/nitro': '~~/.nuxt/component-meta.mjs',
+      '#mdc-imports': '~~/.nuxt/mdc-imports.mjs'
+    }
+  }
 })
