@@ -1,14 +1,14 @@
 ---
 title: Notes from the trail
-description: A short field note about place, maps, and why context matters.
-date: 2026-07-21
 author: Studio Team
+date: 2026-07-21
+description: A short field note about place, maps, and why context matters.
 image:
   src: /images/Tibetischer-Kulturraum-Karte.png
   alt: Map of the Tibetan cultural region
 ---
 
-# Notes from the trail
+# Notes from the trailz
 
 Maps do more than locate a place — they frame how a story begins.
 
