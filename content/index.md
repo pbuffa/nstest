@@ -10,6 +10,6 @@ seo:
 
 # Hello World
 
-This is a beautiful paragraph!
+This is a beautiful paragraph, son!
 
 Read the [blog](/blog) for the latest stuff.
